@@ -8,6 +8,7 @@
 
 ## Quickstart
 ```
+sudo apt install sqlite3
 cd ~
 git clone --depth=1 https://github.com/JavanXD/ya-pihole-list.git ya-pihole-list
 cd ya-pihole-list
